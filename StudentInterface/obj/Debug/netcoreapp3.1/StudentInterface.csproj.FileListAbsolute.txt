@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\WebApplication1\StudentInterface\bin\Debug\netcoreapp3.1\StudentInterface.deps.json
+C:\Users\Admin\source\repos\WebApplication1\StudentInterface\bin\Debug\netcoreapp3.1\StudentInterface.dll
+C:\Users\Admin\source\repos\WebApplication1\StudentInterface\bin\Debug\netcoreapp3.1\StudentInterface.pdb
+C:\Users\Admin\source\repos\WebApplication1\StudentInterface\obj\Debug\netcoreapp3.1\StudentInterface.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WebApplication1\StudentInterface\obj\Debug\netcoreapp3.1\StudentInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WebApplication1\StudentInterface\obj\Debug\netcoreapp3.1\StudentInterface.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WebApplication1\StudentInterface\obj\Debug\netcoreapp3.1\StudentInterface.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WebApplication1\StudentInterface\obj\Debug\netcoreapp3.1\StudentInterface.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WebApplication1\StudentInterface\obj\Debug\netcoreapp3.1\StudentInterface.dll
+C:\Users\Admin\source\repos\WebApplication1\StudentInterface\obj\Debug\netcoreapp3.1\StudentInterface.pdb
+C:\Users\Admin\source\repos\WebApplication1\StudentInterface\bin\Debug\netcoreapp3.1\StudentEntity.dll
+C:\Users\Admin\source\repos\WebApplication1\StudentInterface\bin\Debug\netcoreapp3.1\StudentEntity.pdb
+C:\Users\Admin\source\repos\WebApplication1\StudentInterface\obj\Debug\netcoreapp3.1\StudentInterface.csproj.CopyComplete

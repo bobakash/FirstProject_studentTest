@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\WebApplication1\StudentEntity\bin\Debug\netcoreapp3.1\StudentEntity.deps.json
+C:\Users\Admin\source\repos\WebApplication1\StudentEntity\bin\Debug\netcoreapp3.1\StudentEntity.dll
+C:\Users\Admin\source\repos\WebApplication1\StudentEntity\bin\Debug\netcoreapp3.1\StudentEntity.pdb
+C:\Users\Admin\source\repos\WebApplication1\StudentEntity\obj\Debug\netcoreapp3.1\StudentEntity.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WebApplication1\StudentEntity\obj\Debug\netcoreapp3.1\StudentEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WebApplication1\StudentEntity\obj\Debug\netcoreapp3.1\StudentEntity.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WebApplication1\StudentEntity\obj\Debug\netcoreapp3.1\StudentEntity.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WebApplication1\StudentEntity\obj\Debug\netcoreapp3.1\StudentEntity.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WebApplication1\StudentEntity\obj\Debug\netcoreapp3.1\StudentEntity.dll
+C:\Users\Admin\source\repos\WebApplication1\StudentEntity\obj\Debug\netcoreapp3.1\StudentEntity.pdb

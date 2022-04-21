@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7c257c77-df46-418a-934f-8e61527650ea": {
+      "ProjectGuid": "7c257c77-df46-418a-934f-8e61527650ea",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 0
+    },
+    "74e5b6d7-6b63-42aa-9c9c-15ae5293e437": {
+      "ProjectGuid": "74e5b6d7-6b63-42aa-9c9c-15ae5293e437",
+      "DisplayName": "Student_Entity",
+      "ColorIndex": 1
+    },
+    "9d9e1efe-29ee-472a-9666-8bb5203fcbdc": {
+      "ProjectGuid": "9d9e1efe-29ee-472a-9666-8bb5203fcbdc",
+      "DisplayName": "Student_Entity",
+      "ColorIndex": 2
+    },
+    "67b50ac4-6775-4cb4-8013-d29e1d851af6": {
+      "ProjectGuid": "67b50ac4-6775-4cb4-8013-d29e1d851af6",
+      "DisplayName": "Stuedent_Interface",
+      "ColorIndex": 3
+    },
+    "108e8375-bc55-4bec-ab28-9f428d56c9f0": {
+      "ProjectGuid": "108e8375-bc55-4bec-ab28-9f428d56c9f0",
+      "DisplayName": "Security_Entity",
+      "ColorIndex": 4
+    },
+    "144e8b9d-7326-419c-aca5-070265e4e8a3": {
+      "ProjectGuid": "144e8b9d-7326-419c-aca5-070265e4e8a3",
+      "DisplayName": "Security_Interface",
+      "ColorIndex": 5
+    },
+    "dcf96c01-2723-44ad-aa8b-3b8d5935ef7a": {
+      "ProjectGuid": "dcf96c01-2723-44ad-aa8b-3b8d5935ef7a",
+      "DisplayName": "Student_Repository",
+      "ColorIndex": 6
+    },
+    "91306206-6518-4ee9-98f5-2d195ae66525": {
+      "ProjectGuid": "91306206-6518-4ee9-98f5-2d195ae66525",
+      "DisplayName": "StudentEntity",
+      "ColorIndex": 7
+    },
+    "491d9e13-ad26-4fbb-860f-ee3ab1b146f3": {
+      "ProjectGuid": "491d9e13-ad26-4fbb-860f-ee3ab1b146f3",
+      "DisplayName": "StudentInterface",
+      "ColorIndex": 8
+    },
+    "5d2e79c0-2860-4e2b-91d6-0c999d0ead19": {
+      "ProjectGuid": "5d2e79c0-2860-4e2b-91d6-0c999d0ead19",
+      "DisplayName": "StudentRepository",
+      "ColorIndex": 9
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 10
+}

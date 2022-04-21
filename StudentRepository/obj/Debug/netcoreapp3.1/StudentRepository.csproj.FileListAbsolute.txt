@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\WebApplication1\StudentRepository\bin\Debug\netcoreapp3.1\StudentRepository.deps.json
+C:\Users\Admin\source\repos\WebApplication1\StudentRepository\bin\Debug\netcoreapp3.1\StudentRepository.dll
+C:\Users\Admin\source\repos\WebApplication1\StudentRepository\bin\Debug\netcoreapp3.1\StudentRepository.pdb
+C:\Users\Admin\source\repos\WebApplication1\StudentRepository\bin\Debug\netcoreapp3.1\StudentEntity.dll
+C:\Users\Admin\source\repos\WebApplication1\StudentRepository\bin\Debug\netcoreapp3.1\StudentEntity.pdb
+C:\Users\Admin\source\repos\WebApplication1\StudentRepository\obj\Debug\netcoreapp3.1\StudentRepository.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WebApplication1\StudentRepository\obj\Debug\netcoreapp3.1\StudentRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WebApplication1\StudentRepository\obj\Debug\netcoreapp3.1\StudentRepository.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WebApplication1\StudentRepository\obj\Debug\netcoreapp3.1\StudentRepository.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WebApplication1\StudentRepository\obj\Debug\netcoreapp3.1\StudentRepository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WebApplication1\StudentRepository\obj\Debug\netcoreapp3.1\StudentRepository.csproj.CopyComplete
+C:\Users\Admin\source\repos\WebApplication1\StudentRepository\obj\Debug\netcoreapp3.1\StudentRepository.dll
+C:\Users\Admin\source\repos\WebApplication1\StudentRepository\obj\Debug\netcoreapp3.1\StudentRepository.pdb
+C:\Users\Admin\source\repos\WebApplication1\StudentRepository\bin\Debug\netcoreapp3.1\StudentInterface.dll
+C:\Users\Admin\source\repos\WebApplication1\StudentRepository\bin\Debug\netcoreapp3.1\StudentInterface.pdb
